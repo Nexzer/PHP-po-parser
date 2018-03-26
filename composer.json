@@ -1,5 +1,5 @@
 {
-  "name": "sepia/po-parser",
+  "name": "nexzer/po-parser",
   "description": "Gettext *.PO file parser for PHP.",
   "type": "library",
   "keywords": [
